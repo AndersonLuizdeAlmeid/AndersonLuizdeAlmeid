@@ -47,6 +47,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonLuizdeAlmeid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLuizdeAlmeid&layout=compact&theme=dark"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonLuizdeAlmeid&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLuizdeAlmeid&layout=compact&theme=tokyonight" />
+  </a>
 </div>
