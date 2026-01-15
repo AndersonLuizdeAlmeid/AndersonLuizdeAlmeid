@@ -4,8 +4,8 @@
   
   ### Senior Backend Developer | .NET Specialist
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
-  [![Germany](https://img.shields.io/badge/Open%20to%20Relocation-Germany%20%F0%9F%87%A9%F0%9F%87%AA-black?style=flat)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anderson-luiz-almeida)
+  [![Germany](https://img.shields.io/badge/Open%20to%20Relocation-Germany%20%F0%9F%87%A9%F0%9F%87%AA-black?style=flat)](https://www.linkedin.com/in/anderson-luiz-almeida)
 
   <br>
 
