@@ -1,56 +1,90 @@
 <div align="center">
-  
-  # Hi there, I'm Anderson! 👋
-  
-  ### Senior Backend Developer | .NET Specialist
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anderson-luiz-almeida)
-  [![Germany](https://img.shields.io/badge/Open%20to%20Relocation-Germany%20%F0%9F%87%A9%F0%9F%87%AA-black?style=flat)](https://www.linkedin.com/in/anderson-luiz-almeida)
 
-  <br>
+# Anderson Luiz de Almeida
 
-  <p align="left">
-    I am a Backend Developer with a strong focus on <b>software architecture</b> and <b>scalability</b>. 
-    Currently building robust solutions at <b>Tramontina</b> using the .NET ecosystem.
-    I am an enthusiast of continuous learning and passionate about solving complex architectural challenges.
-  </p>
-  
-  <p align="left">
-   🔭 <b>Target:</b> Seeking opportunities in Germany (Berlin, Munich, Hamburg). <br>
-   ⚡ <b>Focus:</b> Clean Architecture, DDD, Event-Driven Systems, and High Performance APIs.
-  </p>
+### Backend Developer · .NET · Clean Architecture · Docker
+
+*Building production-grade SaaS systems in Brazil, aiming for remote roles in Europe.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-luiz-almeida)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anderson.almeida0797@gmail.com)
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## About me
 
-<div align="center">
+I'm a backend developer with hands-on experience shipping multi-tenant SaaS products to production — not side projects, real systems used by real companies.
 
-| **Core & Backend** | **Database** | **DevOps & Cloud** |
-|:---:|:---:|:---:|
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Dapper](https://img.shields.io/badge/ORM-Dapper-green?style=flat-square) | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+My stack is centered around **.NET and C#**, with PostgreSQL as my primary database and Docker + GitHub Actions as my standard deployment pipeline. I work with **Clean Architecture** and Domain-Driven Design on every project, and I'm comfortable integrating cloud services (Azure Blob Storage, GCP), message brokers (RabbitMQ), and AI APIs.
 
-</div>
-
-<br>
-
-**💻 Advanced Concepts & Observability**
-* **Messaging:** ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) (Event-driven architecture)
-* **Monitoring:** ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-* **Methodologies:** Clean Architecture, DDD, TDD/Unit Testing, Scrum/Agile.
+Currently working at **Tramontina** while building my own products on the side. Open to backend-focused remote roles in Europe.
 
 ---
 
-### 📊 GitHub Stats
+## Production projects
+
+These are systems I designed, built, and deployed — source code is private, each repo below is a public showcase with architecture and feature details.
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**FrotaLink**](https://github.com/AndersonLuizdeAlmeid/frota-link) | Multi-company fleet management SaaS — travel lifecycle, driver assignment, financial reports, real-time push notifications | .NET · PostgreSQL · RabbitMQ · Docker |
+| [**Cliently**](https://github.com/AndersonLuizdeAlmeid/cliently) | CRM SaaS with loyalty campaign engine — clients, sales, automations, points & reward redemption | .NET · PostgreSQL · Docker |
+| [**Contrax**](https://github.com/AndersonLuizdeAlmeid/contrax-public) | Document management SaaS — upload to Azure Blob, approval/signing workflows, automated expiration email alerts | .NET · PostgreSQL · Azure · Docker |
+| [**Painting Company**](https://github.com/AndersonLuizdeAlmeid/painting-company) | Field service management — itemized budgets with PDF export, employee docs on GCP, financial dashboard | .NET · EF Core · GCP · React |
+| [**GermanyMate**](https://github.com/AndersonLuizdeAlmeid/germany-mate) | Immigration assistant — Chancenkarte calculator, visa checklist, appointment monitor with Telegram + email alerts, AI advisor | .NET · PostgreSQL · React · Docker |
+
+---
+
+## Tech stack
+
+**Languages & Frameworks**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+**Infrastructure & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**Patterns & Methods**
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-333333?style=flat-square)
+![DDD](https://img.shields.io/badge/DDD-333333?style=flat-square)
+![TDD](https://img.shields.io/badge/TDD-333333?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+---
+
+## GitHub stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonLuizdeAlmeid&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLuizdeAlmeid&layout=compact&theme=tokyonight" />
-  </a>
+
+![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonLuizdeAlmeid&show_icons=true&theme=dark&hide_border=true&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLuizdeAlmeid&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to remote backend roles in Europe — feel free to reach out.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anderson--luiz--almeida-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-luiz-almeida)
+
 </div>
