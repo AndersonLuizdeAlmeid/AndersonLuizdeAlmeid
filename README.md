@@ -39,6 +39,8 @@ These are systems I designed, built, and deployed — source code is private, ea
 
 ## Tech stack
 
+<div align="center">
+
 **Languages & Frameworks**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -66,6 +68,8 @@ These are systems I designed, built, and deployed — source code is private, ea
 ![DDD](https://img.shields.io/badge/DDD-333333?style=flat-square)
 ![TDD](https://img.shields.io/badge/TDD-333333?style=flat-square)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+</div>
 
 ---
 
