@@ -4,7 +4,7 @@
 
 ### Backend Developer · .NET · Clean Architecture · Docker
 
-*Building production-grade SaaS systems in Brazil, aiming for remote roles in Europe.*
+*Building production-grade SaaS systems in Brazil.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-luiz-almeida)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anderson.almeida0797@gmail.com)
@@ -19,7 +19,7 @@ I'm a backend developer with hands-on experience shipping multi-tenant SaaS prod
 
 My stack is centered around **.NET and C#**, with PostgreSQL as my primary database and Docker + GitHub Actions as my standard deployment pipeline. I work with **Clean Architecture** and Domain-Driven Design on every project, and I'm comfortable integrating cloud services (Azure Blob Storage, GCP), message brokers (RabbitMQ), and AI APIs.
 
-Currently working at **Tramontina** while building my own products on the side. Open to backend-focused remote roles in Europe.
+Currently working at **Tramontina** while building my own products on the side.
 
 ---
 
@@ -86,8 +86,6 @@ These are systems I designed, built, and deployed — source code is private, ea
 ---
 
 <div align="center">
-
-**Open to remote backend roles in Europe — feel free to reach out.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anderson--luiz--almeida-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-luiz-almeida)
 
